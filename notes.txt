@@ -1,8 +1,0 @@
-✓new banner/header
-textured design (canvas hard paper)?
-✓placement of search and log in
-using bootstrap through hard links
-font choice
-designed title
-✓more complex color scheme (accent purple color?)
-✓mountain drawing
